@@ -18,6 +18,18 @@ The project includes both **basic and advanced SQL queries** to retrieve and ana
 
 ---
 
+## 🎓 Project Source & Credit
+
+The **project data and project idea used for this practice project were taken from a YouTube tutorial by Satish Dhawal**.
+
+**Credit:** Satish Dhawal – YouTube
+
+This repository represents my **learning and SQL practice work** based on the project demonstrated in the tutorial. I used the project to practice PostgreSQL, SQL queries, data analysis, joins, aggregation, and related concepts.
+
+> **Note:** The purpose of this repository is educational and to demonstrate my SQL learning and practice.
+
+---
+
 ## 🎯 Project Objectives
 
 The main objectives of this project are:
@@ -319,8 +331,9 @@ Contains the project documentation, database structure, SQL concepts practiced, 
 
 This project represents my first practical SQL project using PostgreSQL.
 
-It helped me build a foundation in relational database concepts and SQL-based data analysis by working with books, customers, and orders.
+Although the project data and initial project idea were taken from **Satish Dhawal's YouTube tutorial**, I used the project as a practical exercise to develop my own understanding and practice of SQL and PostgreSQL.
 
 Through this project, I practiced moving from **basic data retrieval to multi-table analysis and business-oriented queries**.
 
-This project is also a starting point for developing further skills in **SQL, Data Analysis, Business Intelligence, and database-driven reporting**.
+This project is a starting point for developing further skills in **SQL, Data Analysis, Business Intelligence, and database-driven reporting**.
+
